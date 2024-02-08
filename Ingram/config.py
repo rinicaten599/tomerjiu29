@@ -7,7 +7,7 @@ from .utils import net
 
 _config = {
     'users': ['admin'],
-    'passwords': ['admin', 'admin12345', 'asdf1234', 'abc12345', '12345admin', '12345abc'],
+    'passwords': ['admin', 'admin12345', 'asdf1234', 'Admin123', 'a1234567', 'abc12345', '12345admin', '12345abc'],
     'user_agent': net.get_user_agent(),  # to save time, we only get user agent once.
     'ports': [80, 81, 82, 83, 84, 85, 88, 8000, 8001, 8080, 8081, 8085, 8086, 8088, 8090, 8181, 2051, 9000, 37777, 49152, 55555],
 
